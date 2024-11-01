@@ -8,7 +8,7 @@ int main()
     char _nameofsnacks;
 
     // Intro
-    printf("\t\tABC RESTAURANT ONLINE ORDER PLACEMENT\n");
+    printf("\t\tABC RESTAURANT ONLINE ORDER PLACEMENTXXXXXXXXXXXXXXXXXXX\n");
     printf("\t\t\t\tWELCOME !\n");
 
     printf("Please select from the following Menu\n1.B = Burger (Rs 200)\n2.F = French Fries (Rs 50)\n3.P = Pizza (Rs 500)\n4.S = Sandwiches (Rs 150)\n\n");
